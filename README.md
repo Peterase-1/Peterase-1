@@ -11,7 +11,7 @@
 </head>
 <body class="bg-gray-900 text-white p-6 max-w-3xl mx-auto">
     <div class="flex items-center mb-8">
-        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" class="w-24 h-24 rounded-full border-4 border-blue-500 mr-6">
+        <img src="" class="w-24 h-24 rounded-full border-4 border-blue-500 mr-6">
         <div>
             <h1 class="text-3xl font-bold">Hey <span class="wave">👋</span>, I'm Peter</h1>
             <p class="text-blue-300">Aspiring Full-Stack Developer | Learning One Line at a Time</p>
