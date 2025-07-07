@@ -17,21 +17,10 @@
 ## Tech Stack 💻
 
 <div align="center">
+
+  <!-- Frontend Technologies -->
+  <h3>Frontend</h3>
   <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-        <br>C++
-      </td>
-    </tr>
     <tr>
       <td align="center" width="110">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -42,12 +31,66 @@
         <br>CSS3
       </td>
       <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br>Git
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" />
+        <br>jQuery
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <br>React
       </td>
     </tr>
   </table>
+
+  <!-- Programming Languages -->
+  <h3>Languages</h3>
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+    </tr>
+  </table>
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+      </td>
+      <td align="center" width="110">
+        <img src="https://img.icons8.com/ios-filled/50/4a90e2/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
+        <br>SQL Server
+      </td>
+    </tr>
+  </table>
+
 </div>
+
 
 ## Connect With Me 📫
 
