@@ -1,4 +1,4 @@
-# Peter's Place 👋
+# Peter's Place. 👋
 
 <div align="center">
   
