@@ -7,15 +7,15 @@
    
 </div>
 
-## About Me 🌱
+## About Me
 
 - **Currently learning:** Computer Science, Python, JavaScript, C++,React
 - **Ask me about:** Python, HTML and CSS
 - **Reach me at:** [pasegid@gmail.com](mailto:pasegid@gmail.com)
 
-> ⚡ Fun fact: Some people say music is a universal language... I think code is too, but with less rhythm and more bugs to fix!
+> Fun fact: Some people say music is a universal language... I think code is too, but with less rhythm and more bugs to fix!
 
-## Tech Stack 💻
+## Tech Stack
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 </div>
 
 
-## Connect With Me 📫
+## Connect With Me
 
 <div align="center">
   <a href="https://github.com/yourusername">
