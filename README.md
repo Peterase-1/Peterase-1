@@ -4,7 +4,7 @@
   
   <h1>Hey <span style="display: inline-block; animation: wave 2s infinite;">👋</span>, I'm Peter</h1>
   <h3>Aspiring Full-Stack Developer | Learning One Line at a Time</h3> 
-  
+   
 </div>
 
 ## About Me 🌱
