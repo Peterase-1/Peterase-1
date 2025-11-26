@@ -1,10 +1,41 @@
-<h1 align="center">Hi 👋, I'm Petros</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+  Hey, I'm Petros — Code Alchemist
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1111000&color=7AF79A&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI-Driven+Solutions+%7C+Solutions+Architecture" alt="Typing SVG" />
+</h3>
 
-<h3 align="center">Full Stack Developer | AI-Driven Solutions | Solutions Architecture</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peterase-1&label=Profile%20views&color=0e75b6&style=flat" alt="peterase-1" /> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
+
+
+
+<big><b>Full Stack Developer | AI-Driven Solutions | Solutions Architecture</b></big>
+<i>Passionate about exploring cutting-edge technologies and crafting efficient software solutions</i>
+
+<big><b>Computer Science Scholar</b></big>
+<i>Currently pursuing BSc in Computer Science with focus on Cloud Architecture & AI Engineering</i>
+
+<big><b>Project Catalyst</b></big>
+<i>Building <a href="https://github.com/Peterase-1">Campus Sync</a> - A platform revolutionizing campus connectivity and student engagement</i>
+
+<big><b>Continuous Learner</b></big>
+<i>Deep diving into Cloud Infrastructure, AI Engineering, and Scalable System Design</i>
+
+<big><b>Tech Stack Specialist</b></big>
+<i>Proficient in JavaScript, React, Node.js, Python, and both SQL & NoSQL databases</i>
+
+<big><b>Collaborative Spirit</b></big>
+<i>Always open to discussing tech innovations, coding challenges, and potential collaborations</i>
+
+<big><b>Reach Out</b></big>
+<i>Feel free to contact me at pasegid@gmail.com for tech discussions or opportunities</i>
+
 
 
 
@@ -12,30 +43,8 @@
 
 
 
-- 🔭 I’m currently working on [Campus Sync](https://github.com/Peterase-1/Campus-Sync)
-
-
-
-- 🌱 I’m currently learning **Bsc in Computer Science |Cloud Architecture |Fundamentals of AI Engineering**
-
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Peterase-1](https://github.com/Peterase-1)
-
-
-
-- 💬 Ask me about **Javascript, React, Node Js, Database(No Sql and Relational),Software Development)**
-
-
-
-- 📫 How to reach me **pasegid@gmail.com**
-
-
-
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-
 <a href="https://codepen.io/https://codepen.io/petros-asegid/pens/showcase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/petros-asegid/pens/showcase" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/petros-asegid-4454a931a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petros-asegid-4454a931a" height="30" width="40" /></a>
@@ -58,17 +67,11 @@
 
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pasegide"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pasegide" /></a></p><br><br>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterase-1&show_icons=true&locale=en&layout=compact" alt="peterase-1" /></p>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterase-1&show_icons=true&locale=en" alt="peterase-1" /></p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterase-1&" alt="peterase-1" /></p>
+Create A read me by Collectiong the collections and by using templet 1 and send me markup
+-streak-stats.herokuapp.com/?user=peterase-1&" alt="peterase-1" /></p>
 
 
 
