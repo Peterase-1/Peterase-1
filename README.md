@@ -126,7 +126,10 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterase-1&" alt="peterase-1" /></p>
+<p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=peterase-1&" alt="peterase-1" />
+  <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peterase-1&layout=compact&langs_count=8&theme=dark" alt="peterase-1" />
+</p>
 
 <p align="center">
  <div align="center" class="icons-social" style="margin-left: 10px;">
