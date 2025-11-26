@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=252525&height=300&section=header&text=Petros%20Asegid&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Powered%20Solutions%20%7C%20Solution%20Architect&descAlignY=60&descAlign=62&fontColor=7AF79A" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=252525&height=300&section=header&text=Petros%20Asegid&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Powered%20Applications%20%7C%20Solution%20Architect&descAlignY=60&descAlign=62&fontColor=7AF79A" width="100%"/>
 </div>
 
 <h3 align="center">
@@ -103,24 +103,26 @@
 
 
 
-<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/briefcase.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">Experience</span></h2>
-
-<p align="center">
-  <span style="font-family: monospace">💼 <b>Full Stack Developer</b></span><br>
-  <span style="font-family: monospace"><i>Remote| Current</i></span><br>
-  <span style="font-family: monospace">Developing scalable web applications and digital solutions for various clients. Specializing in modern web technologies and responsive design.</span>
-</p>
-
-<br/>
-<br/>
-
-<h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/idea.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">Soft Skills</span></h2>
-
-<div align="center">
-  <p>
-    <span style="font-family: monospace">🧩 <b>Problem Solving</b> &nbsp;|&nbsp; 👥 <b>Team Leadership</b> &nbsp;|&nbsp; 📢 <b>Communication</b> &nbsp;|&nbsp; 🔄 <b>Adaptability</b> &nbsp;|&nbsp; ⏳ <b>Time Management</b></span>
-  </p>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/briefcase.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">Experience</span></h2>
+      <p align="center">
+        <span style="font-family: monospace">💼 <b>Full Stack Developer</b></span><br>
+        <span style="font-family: monospace"><i>Remote| Current</i></span><br>
+        <span style="font-family: monospace">Developing scalable web applications and digital solutions for various clients. Specializing in modern web technologies and responsive design.</span>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/idea.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">Soft Skills</span></h2>
+      <div align="center">
+        <p>
+          <span style="font-family: monospace">🧩 <b>Problem Solving</b> &nbsp;|&nbsp; 👥 <b>Team Leadership</b> &nbsp;|&nbsp; 📢 <b>Communication</b> &nbsp;|&nbsp; 🔄 <b>Adaptability</b> &nbsp;|&nbsp; ⏳ <b>Time Management</b></span>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
