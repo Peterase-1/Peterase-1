@@ -134,6 +134,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterase-1&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="streak stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterase-1&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="activity graph" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/Peterase?theme=tokyonight&font=JetBrains%20Mono&ext=heatmap" height="180" alt="leetcode stats" />
 </div>
 
 <br/>
