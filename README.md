@@ -8,16 +8,18 @@
 </h3>
 
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peterase-1&theme=onedark" alt="peterase-1" />
+  </a> 
+</p>
+
+
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
-
-
-
-<big><b>Full Stack Developer | AI-Driven Solutions | Solutions Architecture</b></big>
-<i>Passionate about exploring cutting-edge technologies and crafting efficient software solutions</i>
-
 <big><b>Computer Science Scholar</b></big>
 <i>Currently pursuing BSc in Computer Science with focus on Cloud Architecture & AI Engineering</i>
 
@@ -39,20 +41,27 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterase-1" alt="peterase-1" /></a> </p>
 
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/petros-asegid/pens/showcase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/petros-asegid/pens/showcase" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/petros-asegid-4454a931a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petros-asegid-4454a931a" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/https://www.kaggle.com/petrosasegid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/petrosasegid" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/u/peterase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/peterase" height="30" width="40" /></a>
-
+<p align="center">
+ <div align="center" class="icons-social" style="margin-left: 10px;">
+        <a target="_blank" href="https://linkedin.com/in/petros-asegid-4454a931a">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/AvidCoder2019">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="mailto:pasegid@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://t.me/ABCD2586">
+		<img src="https://img.icons8.com/doodle/40/000000/telegram-app.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://wa.me/251945801419">
+		<img src="https://img.icons8.com/doodle/40/000000/whatsapp.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://codepen.io/petros-asegid/pens/showcase">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://leetcode.com/u/peterase">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"></a>
+      </div>
 </p>
 
 
