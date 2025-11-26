@@ -90,10 +90,10 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp&perline=3" />
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,aws,vercel&perline=3" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,aws,vercel,sequelize,prisma&perline=3" />
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,powershell,postman,figma,vscode&perline=3" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,powershell,postman,figma,vscode,jest,chartjs&perline=3" />
     </td>
   </tr>
 </table>
