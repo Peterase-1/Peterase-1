@@ -20,12 +20,12 @@
       <h2><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/user--v1.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">About Me</span></h2>
       <br>
       <p>
-        <code>🎓 <b>Computer Science Student</b></code><br>
-        <code>Currently I start learning <b>Cloud Architecture</b> and <b>Fundamentals of AI Engineering</b>.</code>
+        <span style="font-family: monospace">🎓 <b>Computer Science Student</b></span><br>
+        <span style="font-family: monospace">Currently I start learning <b>Cloud Architecture</b> and <b>Fundamentals of AI Engineering</b>.</span>
       </p>
       <p>
-        <code>💻 <b>Fullstack Developer</b></code><br>
-        <code>I am currently a Fullstack developer with vast knowledge. Ask me about <b>Software Development</b>, <b>MERN</b>, <b>PERN</b>, etc.</code>
+        <span style="font-family: monospace">💻 <b>Fullstack Developer</b></span><br>
+        <span style="font-family: monospace">I am currently a Fullstack developer with vast knowledge. Ask me about <b>Software Development</b>, <b>MERN</b>, <b>PERN</b>, etc.</span>
       </p>
     </td>
     <td width="40%" valign="center">
@@ -46,10 +46,10 @@
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Peterase-1">Campus Sync</a></h3>
       <p align="center">
-        <code><i>A platform revolutionizing campus connectivity and student engagement.</i></code>
+        <span style="font-family: monospace"><i>A platform revolutionizing campus connectivity and student engagement.</i></span>
       </p>
       <p>
-        <code><b>Campus Sync</b> is a comprehensive solution designed to bridge the communication gap in educational institutions. It features real-time notifications, event management, and a centralized hub for student resources.</code>
+        <span style="font-family: monospace"><b>Campus Sync</b> is a comprehensive solution designed to bridge the communication gap in educational institutions. It features real-time notifications, event management, and a centralized hub for student resources.</span>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,firebase" alt="Tech Stack" />
@@ -58,10 +58,10 @@
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Summer-Camp-Project/Project-for-G25">EthioHeritage360</a></h3>
       <p align="center">
-        <code><i>Preserving Ethiopia's Cultural Heritage Through Technology.</i></code>
+        <span style="font-family: monospace"><i>Preserving Ethiopia's Cultural Heritage Through Technology.</i></span>
       </p>
       <p>
-        <code><b>EthioHeritage360</b> is a virtual museum and cultural platform featuring interactive maps, tour management, and a comprehensive rental system to showcase Ethiopia's rich history.</code>
+        <span style="font-family: monospace"><b>EthioHeritage360</b> is a virtual museum and cultural platform featuring interactive maps, tour management, and a comprehensive rental system to showcase Ethiopia's rich history.</span>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker" alt="Tech Stack" />
@@ -106,9 +106,9 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/briefcase.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">Experience</span></h2>
 
 <p align="center">
-  <code>💼 <b>Full Stack Developer</b></code><br>
-  <code><i>Remote| Current</i></code><br>
-  <code>Developing scalable web applications and digital solutions for various clients. Specializing in modern web technologies and responsive design.</code>
+  <span style="font-family: monospace">💼 <b>Full Stack Developer</b></span><br>
+  <span style="font-family: monospace"><i>Remote| Current</i></span><br>
+  <span style="font-family: monospace">Developing scalable web applications and digital solutions for various clients. Specializing in modern web technologies and responsive design.</span>
 </p>
 
 <br/>
@@ -118,7 +118,7 @@
 
 <div align="center">
   <p>
-    <code>🧩 <b>Problem Solving</b> &nbsp;|&nbsp; 👥 <b>Team Leadership</b> &nbsp;|&nbsp; 📢 <b>Communication</b> &nbsp;|&nbsp; 🔄 <b>Adaptability</b> &nbsp;|&nbsp; ⏳ <b>Time Management</b></code>
+    <span style="font-family: monospace">🧩 <b>Problem Solving</b> &nbsp;|&nbsp; 👥 <b>Team Leadership</b> &nbsp;|&nbsp; 📢 <b>Communication</b> &nbsp;|&nbsp; 🔄 <b>Adaptability</b> &nbsp;|&nbsp; ⏳ <b>Time Management</b></span>
   </p>
 </div>
 
