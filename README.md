@@ -128,10 +128,7 @@
 <h2 align="center"><img src="https://img.icons8.com/ios-glyphs/50/7AF79A/graph.png" width="40" style="vertical-align:middle"> <span style="color: #7AF79A; vertical-align:middle">GitHub Stats</span></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterase-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterase-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterase-1&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="streak stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterase-1&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="activity graph" />
   <br>
