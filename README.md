@@ -144,7 +144,7 @@
   <a href="https://linkedin.com/in/petros-asegid-4454a931a" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AvidCoder2019" target="_blank">
+  <a href="https://github.com/Peterase-1" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
   </a>
   <a href="mailto:pasegid@gmail.com" target="_blank">
